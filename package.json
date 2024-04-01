@@ -1,13 +1,21 @@
 {
   "name": "bhaukal-lang",
   "version": "1.0.1",
-  "description": "",
+  "description": "A fun programming language.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "startBhaukal": "node index.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": "atul",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akpoco/bhaukal-lang.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akpoco/bhaukal-lang/issues"
+  },
+  "homepage": "https://github.com/akpoco/bhaukal-lang#readme"
 }
