@@ -169,5 +169,3 @@ function compiler(input) {
 
     return eval(code);
 }
-
-// console.log(process.argv[2])
